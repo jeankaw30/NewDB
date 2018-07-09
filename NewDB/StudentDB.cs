@@ -51,7 +51,7 @@ namespace NewDB
             try
             {
                 con.Open();
-                // cont code here
+                // continue code here
             }   // do not have to have a catch if you have finally
             finally
             {
