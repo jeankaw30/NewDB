@@ -1,0 +1,6 @@
+﻿USE Databse
+
+CREATE TABLE Student 
+(
+	SID int PRIMARY KEY IDENTITY
+)
